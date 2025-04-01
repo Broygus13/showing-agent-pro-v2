@@ -1,5 +1,6 @@
 {
-  "name": "showing-agent-pro-v2",
-  "version": "0.1.0",
-  "private": true
+  "dependencies": {
+    "firebase": "^11.6.0",
+    "react-firebase-hooks": "^5.1.1"
+  }
 }
